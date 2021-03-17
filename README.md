@@ -1,1 +1,1 @@
-# automated-selenium-tesing
+# automated-selenium-testing
